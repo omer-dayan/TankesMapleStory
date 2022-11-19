@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.0",
+  "option_operagx_next_version": "1.0.0.0",
+  "option_operagx_game_name": "MapleStoryNG",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "9a372129-650f-499c-807a-23116ce3b773",
+  "option_operagx_team_name": "(83c66bb3-085f-42dc-9201-1135d40cde98) studio",
+  "option_operagx_team_id": "83c66bb3-085f-42dc-9201-1135d40cde98",
+  "option_operagx_editUrl": "https://create.gx.games/game/9a372129-650f-499c-807a-23116ce3b773/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
